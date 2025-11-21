@@ -1,9 +1,12 @@
 import { createRoot } from "react-dom/client";
+import DBTest from "./components/DBTest";
+import AddExtensionForm from "./components/AddExtensionForm";
 
 const App = () => {
   return (
     <div>
-      <h1>HELLO FWOM WEACT</h1>
+      {/* <DBTest />*/}
+      <AddExtensionForm />
     </div>
   );
 };

@@ -27,13 +27,33 @@
     "@electron-forge/plugin-fuses": "^7.10.2",
     "@electron-forge/plugin-vite": "^7.10.2",
     "@electron/fuses": "^1.8.0",
+    "@types/cors": "^2.8.19",
+    "@types/dotenv": "^6.1.1",
+    "@types/express": "^5.0.5",
+    "@types/multer": "^2.0.0",
+    "@types/node": "^24.10.1",
+    "@types/react": "^19.2.6",
+    "@types/react-dom": "^19.2.3",
+    "@types/yup": "^0.29.14",
     "electron": "39.2.3",
+    "typescript": "^5.9.3",
     "vite": "^5.4.21"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.1.17",
     "@vitejs/plugin-react": "^5.1.1",
+    "axios": "^1.13.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
     "electron-squirrel-startup": "^1.0.1",
+    "express": "^5.1.0",
+    "formik": "^2.4.9",
+    "multer": "^2.0.2",
+    "mysql2": "^3.15.3",
     "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "react-dom": "^19.2.0",
+    "react-dropzone": "^14.3.8",
+    "tailwindcss": "^4.1.17",
+    "yup": "^1.7.1"
   }
 }
